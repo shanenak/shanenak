@@ -1,7 +1,8 @@
 <div align="center">
 <p align="center">
-  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+  <img width="200" src="https://github.com/shanenak/shanenak/blob/main/83C6B06A-1AF1-49BB-9689-A7C58665106F.jpeg">
 </p>
+  
 ## About
 Thanks for stopping by! My name is Shannon Millar. I am a full stack developer with a background as a data analyst and consultant. While I consider Python to be home, I also enjoy coding in JavaScript, Ruby, and SQL. Check out some of my projects and please do reach out - I'd love to hear from you!
 
