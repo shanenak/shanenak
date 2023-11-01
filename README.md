@@ -4,7 +4,7 @@
 </p>
   
 ## About
-Thanks for stopping by! My name is Shannon Millar. I am a full stack developer with a background as a data analyst and consultant. While I consider Python to be home, I also enjoy coding in JavaScript, Ruby, and SQL. Check out some of my projects and please do reach out - I'd love to hear from you!
+Thanks for stopping by! My name is Shannon Millar. I combine my Industrial Engineering background with my love of coding by building data-driven tools and websites that increase efficiency and ease for users and clients. While I consider Python to be home, I also enjoy coding in JavaScript, Ruby, and SQL. Check out some of my projects and please do reach out - I'd love to hear from you!
 
 -------------------
 
