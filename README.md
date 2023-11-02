@@ -6,7 +6,7 @@
 ## About
 Lovely to meet you! My name is Shannon Millar. I'm a software engineer who is energized by complex systems and by building people-centric solutions. I believe that impactful products emerge from a purposeful fusion of technology and empathy. 
 
-I combine my Industrial Engineering background with my love of coding by building data-driven tools and websites that increase efficiency and ease for users and clients. While I consider Python to be home, I also enjoy coding in JavaScript, Ruby, and SQL. Check out my [portfolio](https://shanenak.github.io/portfolio/) for my latest projects.
+My passion for people has always been embedded in my work as a consultant, data analyst, and now, as a software engineer, I remain eager to build data-driven websites that increase efficiency and ease. I enjoy coding in Python, JavaScript, Ruby, and SQL. Check out my [portfolio](https://shanenak.github.io/portfolio/) for my latest projects.
 
 -------------------
 
